@@ -1,5 +1,5 @@
 # Reaction Example Theme
-Reaction Commerce example theme package
+Reaction Commerce example theme plugin.
 
 # Installation
 Install this theme in `imports/plugins/custom/` to activate it.
